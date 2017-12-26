@@ -1,0 +1,6 @@
+framework module ATest_Category {
+  umbrella header "ATest_Category-umbrella.h"
+
+  export *
+  module * { export * }
+}

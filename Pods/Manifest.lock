@@ -1,0 +1,22 @@
+PODS:
+  - ATest (0.1.6):
+    - BTest_Categoty
+  - ATest_Category (0.1.2):
+    - CTMediator
+  - BTest_Categoty (0.1.1):
+    - CTMediator
+  - CTMediator (12)
+
+DEPENDENCIES:
+  - ATest
+  - ATest_Category
+
+SPEC CHECKSUMS:
+  ATest: dd2ea8f983c4ff25aca585de249b01e65543006a
+  ATest_Category: 25c0a3435aceaf3ea97d4f145aa3d8190b089952
+  BTest_Categoty: 5090750aaa48804ed2d7f41de4f873b25e5ef5b7
+  CTMediator: 83043d198b7ea73214d53375adfdd7f60edd4c1a
+
+PODFILE CHECKSUM: 3f0fc31b2b5e7da1a72d91016ce3fa5d6b209828
+
+COCOAPODS: 1.4.0.beta.1
